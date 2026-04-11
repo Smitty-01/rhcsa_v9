@@ -44,6 +44,6 @@ CPU INFO
 /proc/cpuinfo
 
 nice -n {5} niceness of a process
-value > 0 more priority 
+value < 0 more priority 
 
 renice to change priority of existing process
